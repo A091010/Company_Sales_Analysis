@@ -1,1 +1,2 @@
 # Company_Sales_Analysis
+This dashboard is designed to serve as a comprehensive decision-support tool for analyzing and monitoring the business's financial and operational performance over time. It integrates key metrics and visual insights across various dimensions—sales, costs, profit, products, time, channels, and regions to enable informed, data-driven decision-making by business stakeholders.  
